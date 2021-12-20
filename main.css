@@ -249,12 +249,14 @@ ul li a{
 
 
 
-
+.all-descr{
+    display: flex;
+}
 
 
 .describing{
     background: #F8F8F8;
-    width: 100%;
+    width: 60%;
     height: 500px;
 }
 
@@ -272,28 +274,9 @@ ul li a{
 }
 
 
-
-
-
-
-
-
-
-
-
-
 .all-wh-we-give{
     display: flex;
 }
-
-
-
-
-
-
-
-
-
 
 
 .wh-we-give{
@@ -312,9 +295,6 @@ ul li a{
 }
 
 
-
-
-
 .consultation{
     width: 220px;
     height: 50px;
@@ -330,6 +310,175 @@ ul li a{
     color: #969696;
     margin-left: 13px;
 }
+
+
+.for-bor{
+    border: 2px dashed rgba(0, 0, 0, 0.1);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    padding: 13px;
+    margin-right: 20px;
+}
+
+
+.all-par{
+    background: #F8F8F8;
+    width: 100%;
+}
+
+
+.par-1{
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+}
+
+
+.par-2{
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+}
+
+
+.par-3{
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+
+
+
+.all-best-hot{
+    height: 800px;
+}
+
+
+.best-hot{
+    display: flex;
+}
+
+
+.best-hot h1{
+    margin: 90px 190px 50px 200px;
+    height: 50px;
+}
+
+
+.vleft{
+    width: 50px;
+    height: 50px;
+    border: 2px solid #C6C6C6;
+    border-radius: 50%;
+    margin: 90px 20px 50px 50px;
+    padding: 11px;
+}
+
+
+.vright{
+    width: 50px;
+    height: 50px;
+    border: 2px solid #454545;
+    border-radius: 50%;
+    padding: 11px;
+    margin: 90px 110px 0 0;
+}
+
+
+.line{
+    width: 350px;
+    height: 1px;
+    border: 1px solid #C6C6C6;
+    margin-top: 112px;
+    margin-right: 80px;
+}
+
+
+.all-hotels{
+    width: 120px;
+    height: 50px;
+    border: 2px solid #454545;
+    text-align: center;
+    margin-top: 90px;   
+    padding-top: 13px;
+}
+
+
+.all-hotels a{
+    text-decoration: none;
+    color: grey;
+}
+
+
+.all-card-hot{
+    display: flex;
+}
+
+
+.card-hot-1{
+    width: 580px;
+    height: 560px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.6) 100%), url(img/portonovi.png) no-repeat;
+    background-size: cover;
+    margin-right: 125px;
+}
+
+
+.card-hot-2{
+    width: 580px;
+    height: 560px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.6) 100%), url(img/276398231\ 2.png) no-repeat;
+    background-size: cover;
+    margin-right: 125px;
+}
+
+
+.card-hot-3{
+    width: 580px;
+    height: 560px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.6) 100%), url(img/c41c4172\ 1.png) no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
